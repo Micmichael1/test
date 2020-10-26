@@ -4,7 +4,7 @@ $query=mysqli_query($koneksi,"SELECT*FROM buku")
 ?>
 <html>
 <head>
-<title>Homepage</title>
+<title>Home</title>
 <link rel="stylesheet" href="css/all.css">
 
 <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
